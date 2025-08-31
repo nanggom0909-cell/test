@@ -1,0 +1,8 @@
+{
+  "name": "casual-puzzle",
+  "version": "1.0.0",
+  "description": "Simple 2048-like puzzle with ad configuration",
+  "scripts": {
+    "test": "echo \"No tests available\""
+  }
+}
